@@ -1,5 +1,6 @@
 <div style="text-align: center;">
   <img src="./assets/monkey.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN1dmRucHl1OTlpNnUwZHFzcjZrNm5uN2wxZGh3bjUyeGg2Z24yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="100%"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHMyYWh6cjZsNzAzYmRoZzBnYjhzb2piZWRpZjBnbmI2ZnphMjk1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7en60xUwV9DaM/giphy.gif" width="100%"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsemk0YWx6dGFodmRvbXozMjJkNTBkMG81aWhxbDdiaHh6NW5paiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77JBBB0wIiFMc/giphy.gif" width="100%"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgzZzVkZWJlc3pncGRmOXJjdXo1anZ2c3IybHpxaHFuZng3bHIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43O3MSnNhLrphNChqx/giphy.gif" width="100%"/>
