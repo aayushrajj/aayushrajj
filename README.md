@@ -1,15 +1,14 @@
 <div style="text-align: center;">
   <img src="./assets/monkey.gif" width="100%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN1dmRucHl1OTlpNnUwZHFzcjZrNm5uN2wxZGh3bjUyeGg2Z24yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="100%"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHMyYWh6cjZsNzAzYmRoZzBnYjhzb2piZWRpZjBnbmI2ZnphMjk1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7en60xUwV9DaM/giphy.gif" width="100%"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsemk0YWx6dGFodmRvbXozMjJkNTBkMG81aWhxbDdiaHh6NW5paiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77JBBB0wIiFMc/giphy.gif" width="100%"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgzZzVkZWJlc3pncGRmOXJjdXo1anZ2c3IybHpxaHFuZng3bHIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43O3MSnNhLrphNChqx/giphy.gif" width="100%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGprbXlscHNyNGFxbnJseDFka3pkdnhiYzhhazRhc2xueDJtNzBieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckJF143W1gBS8Hk833/giphy.gif" width="100%"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azMyeWc0OXc2dmgybmNwODgycWtuZXRwcjh6ZHVxN3JpcjYwMHJhbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MGbGhP6ZEwYW7B2Q1/giphy.gif" width="100%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl3dTg1aHI2b3p3OGNxZmJrOXFreXZudG5zZXFqcTQ2c3dlNTZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/suzmLSmfSPYzK/giphy.gif" width="100%"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhkeTdxeWJ4d2Vtc2g4NDAzNTdjOTRscHoxd3BnNmppejVueGRhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qvgen9dnq6tgcBx03Z/giphy.gif" width="100%"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE1cDlzNm11YXNiOTY3OXk5ZWU3MW9jZWxtZGR2M3B1N3dpdWI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc294ODlqN29xeWRpemFkbm5zeW15cm55c250aTYwcGszOGNrNTJsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXf5TNUhGL2jxPYEmh/giphy.gif" width="100%"/>
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHMyYWh6cjZsNzAzYmRoZzBnYjhzb2piZWRpZjBnbmI2ZnphMjk1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7en60xUwV9DaM/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsemk0YWx6dGFodmRvbXozMjJkNTBkMG81aWhxbDdiaHh6NW5paiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77JBBB0wIiFMc/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTgzZzVkZWJlc3pncGRmOXJjdXo1anZ2c3IybHpxaHFuZng3bHIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43O3MSnNhLrphNChqx/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGprbXlscHNyNGFxbnJseDFka3pkdnhiYzhhazRhc2xueDJtNzBieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckJF143W1gBS8Hk833/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azMyeWc0OXc2dmgybmNwODgycWtuZXRwcjh6ZHVxN3JpcjYwMHJhbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MGbGhP6ZEwYW7B2Q1/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl3dTg1aHI2b3p3OGNxZmJrOXFreXZudG5zZXFqcTQ2c3dlNTZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/suzmLSmfSPYzK/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhkeTdxeWJ4d2Vtc2g4NDAzNTdjOTRscHoxd3BnNmppejVueGRhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qvgen9dnq6tgcBx03Z/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE1cDlzNm11YXNiOTY3OXk5ZWU3MW9jZWxtZGR2M3B1N3dpdWI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/> -->
+  <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc294ODlqN29xeWRpemFkbm5zeW15cm55c250aTYwcGszOGNrNTJsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXf5TNUhGL2jxPYEmh/giphy.gif" width="100%"/> -->
   <h2>Hello, I'm Ayush! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>Full Stack Development | Python | React.js | SQL | Applied AI | Generative AI | Agentic AI </p>
 </div>
