@@ -82,4 +82,4 @@ When I’m not at my computer, you’ll find me:
 ---
 
 ### Connect with Me
-<div style="display: flex; gap: 10px;"><a href="https://www.linkedin.com/in/ayush-raj-0309/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a><a href="https://x.com/aaayushrajjj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a><a href="mailto:ayushraj.work.dev@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a></div>
+<table><tr><td><a href="https://www.linkedin.com/in/ayush-raj-0309/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a></td><td><a href="https://x.com/aaayushrajjj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a></td><td><a href="mailto:ayushraj.work.dev@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a></td></tr></table>
